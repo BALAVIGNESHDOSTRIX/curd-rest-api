@@ -1,2 +1,2 @@
 # CURD-REST-API
-For development Examples CREATE , UPDATE, DELETE,READ
+For development Examples CREATE , UPDATE,READ,DELETE
